@@ -1,4 +1,4 @@
-# Forest-flame-simulation
+# Forest-fire-simulation
 
 ## Project Description​
 
